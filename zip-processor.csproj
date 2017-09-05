@@ -4,5 +4,13 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.0</TargetFramework>
     <RuntimeIdentifiers>win7-x64;win10-x64;osx.10.12-x64;osx.10.11-x64</RuntimeIdentifiers>
+    <Version>1.0.0.0</Version>
+    <Authors>Michael Lawrence</Authors>
+    <Company>Aurlaw</Company>
+    <Product>ZipProcessor</Product>
+    <PackageId>ZipProcessor</PackageId>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+    <NeutralLanguage>en</NeutralLanguage>
   </PropertyGroup>
 </Project>
